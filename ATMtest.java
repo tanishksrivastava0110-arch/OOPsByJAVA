@@ -17,6 +17,7 @@ public class ATMtest {
         finally {
             System.out.println("Transaction attempt completed.");
         }
+        sc.close();
     }
 
     static void withdraw(double balance, double amount)
