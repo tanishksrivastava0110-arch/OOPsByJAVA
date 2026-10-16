@@ -1,0 +1,10 @@
+2026-10-16T11:35:09.165+05:30  INFO 169328 --- [Student] [main] com.kiet.Student.StudentApplication      : Starting StudentApplication using Java 26.0.1 with PID 169328 (D:\OOPsBYjava\Student\target\classes started by HP in D:\OOPsBYjava\Student)
+2026-10-16T11:35:09.172+05:30  INFO 169328 --- [Student] [main] com.kiet.Student.StudentApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-10-16T11:35:10.005+05:30  INFO 169328 --- [Student] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-10-16T11:35:10.021+05:30  INFO 169328 --- [Student] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-10-16T11:35:10.024+05:30  INFO 169328 --- [Student] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-10-16T11:35:10.068+05:30  INFO 169328 --- [Student] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 827 ms
+2026-10-16T11:35:10.389+05:30  INFO 169328 --- [Student] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-10-16T11:35:10.396+05:30  INFO 169328 --- [Student] [main] com.kiet.Student.StudentApplication      : Started StudentApplication in 1.788 seconds (process running for 2.112)
+2026-10-16T11:39:17.564+05:30  INFO 169328 --- [Student] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-10-16T11:39:17.586+05:30  INFO 169328 --- [Student] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
