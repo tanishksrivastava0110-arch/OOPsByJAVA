@@ -1,0 +1,6 @@
+
+{
+    "java.project.referencedLibraries": [
+        "Order Management System/mysql-connector-j-26.10.0.jar"
+    ]
+}
